@@ -1,0 +1,19 @@
+{
+  "name": "yanlima.com",
+  "version": "1.0.0",
+  "description": "my portfolio, available on the website yanlima.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yangclima/yanlima.com.git"
+  },
+  "author": "yangclima",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yangclima/yanlima.com/issues"
+  },
+  "homepage": "https://github.com/yangclima/yanlima.com#readme"
+}
