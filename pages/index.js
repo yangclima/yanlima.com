@@ -13,7 +13,6 @@ const UnderConstruction = () => {
 const styles = {
   container: {
     fontFamily: "'Helvetica Neue', sans-serif",
-    backgroundColor: "#f9f9f9",
     color: "#333",
     height: "70vh",
     margin: 0,
